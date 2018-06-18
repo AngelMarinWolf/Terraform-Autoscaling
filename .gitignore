@@ -1,0 +1,7 @@
+environments/*/terraform.tfvars
+environments/*/terraform.tfstate*
+environments/*/backend.tf
+environments/*/.terraform/
+environments/*/templates/keys/**
+
+**/.DS_Store
